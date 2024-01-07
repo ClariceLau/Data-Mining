@@ -1,0 +1,501 @@
+﻿CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,frequency_of_website_visits,Churn
+7130c7fc-f93f-4950-b3e9-dc8d9cc770d7,43,Female,Mumbai,Platinum,21,308.99,Home Goods,2023-10-10,"Engineer, mining",2,0
+714b19fe-7059-4e32-8ea0-4dde44c1c101,24,Female,Jakarta,Bronze,92,315.02,Home Goods,2023-06-21,Health promotion specialist,16,0
+5f673e62-569c-4d1e-a4e7-81cbbd269c96,83,Female,Tokyo,Gold,100,625.46,Electronics,2023-06-17,Technical sales engineer,29,1
+a6cd0c0a-8a7b-472c-9187-04e2b3c9d95a,19,Male,Jakarta,Gold,85,873.9,Clothing,2023-08-04,"Psychologist, sport and exercise",23,1
+09ddcaa6-1c37-45fe-ae05-d1ede5aed043,36,Female,Bangkok,Platinum,89,577.44,Electronics,2023-02-07,Fine artist,15,0
+bb4b0a51-b749-4234-933c-33e27515d2b8,84,Female,Tokyo,Silver,16,203.45,Clothing,2023-07-08,"Clinical scientist, histocompatibility and immunogenetics",2,1
+f0d94014-cd9f-4e27-8f14-f35b07f26658,90,Male,Istanbul,Silver,100,276.67,Clothing,2023-12-19,"Horticulturist, commercial",13,0
+e74aa267-45e7-4437-850e-b98adb7138cd,31,Female,Seoul,Platinum,32,226.66,Clothing,2023-03-09,Medical technical officer,1,1
+1db2afb7-3bf3-4300-8e83-3336c53ead76,38,Male,Beijing,Silver,21,820.08,Electronics,2023-08-29,"Clinical scientist, histocompatibility and immunogenetics",4,1
+2120012f-d44e-4281-a6ab-655564f74ea2,31,Male,Istanbul,Bronze,37,663.15,Electronics,2023-03-30,Furniture conservator/restorer,12,0
+792570c2-dbc6-4e28-b94f-2b80e07af3de,24,Male,Tokyo,Silver,56,534.04,Clothing,2023-11-01,Civil Service fast streamer,29,1
+05f1f489-f67c-4707-afd1-422f1cab4b4a,68,Male,Bangkok,Platinum,4,808.84,Clothing,2023-03-20,Lexicographer,10,0
+b042a5c9-a1fd-4804-bb50-35ff86551c05,84,Male,Beijing,Bronze,100,142.33,Home Goods,2023-11-02,Forensic scientist,14,1
+48cf2d07-812f-483b-a987-8423ff3298f2,51,Male,Jakarta,Bronze,31,88.06,Electronics,2023-05-20,"Exhibitions officer, museum/gallery",10,1
+c5c111e4-30b8-4be8-9cf3-c1b8b034e77c,32,Male,Karachi,Gold,44,753.13,Electronics,2023-09-30,Tourism officer,1,1
+1bab5729-aa4c-4372-879f-47fca2308f5c,71,Male,Beijing,Gold,20,290.5,Electronics,2023-08-28,Horticultural therapist,3,0
+4e1fb876-5308-4a5f-bcd5-b9c1500c31fd,23,Female,Shanghai,Silver,41,751.06,Electronics,2023-03-22,Product manager,17,0
+bc628b90-75df-4985-a502-88d6ae41fc1d,15,Female,Beijing,Platinum,8,843.03,Clothing,2023-07-31,Chief Technology Officer,9,0
+4a48aae5-86f2-43a8-96bb-f155892c9da3,86,Female,Shanghai,Gold,98,346.65,Electronics,2023-12-26,Clinical embryologist,10,1
+5a9342f2-eb0f-49d1-b768-7c241dbbac99,75,Male,Tokyo,Silver,9,827.25,Home Goods,2023-04-24,Quarry manager,6,0
+cfd16761-cff6-44bb-85aa-cbb348953642,66,Female,Jakarta,Silver,79,671.94,Home Goods,2023-08-27,"Accountant, chartered public finance",27,0
+950811bf-f9d6-4733-971e-6c30c5dd4a7a,38,Male,Seoul,Gold,57,55.42,Clothing,2023-07-15,"Surveyor, building",30,1
+88c166d1-dc4c-4966-948d-267e9c0a142a,31,Male,Beijing,Gold,75,543.54,Clothing,2023-08-24,Fitness centre manager,21,1
+789b0709-3c55-4d17-b22e-e5aa866e8300,19,Male,Beijing,Gold,7,806.55,Home Goods,2023-09-13,Fisheries officer,28,1
+f43d1e04-7349-4598-8e45-bb4f0aedc4d9,40,Male,Beijing,Platinum,13,751.75,Home Goods,2023-01-26,Museum/gallery exhibitions officer,22,1
+ff191f03-b9e6-485f-8708-a1a47bf349b4,79,Female,Istanbul,Bronze,18,968.59,Electronics,2023-06-14,Proofreader,4,1
+81ae142d-f95d-42ff-975e-2926d9ea230d,68,Male,Bangkok,Silver,41,785.9,Home Goods,2023-09-17,Licensed conveyancer,26,0
+7edf1d27-5534-40e1-ba33-5374f7ecb277,76,Male,Seoul,Gold,52,89.35,Clothing,2023-01-09,Music therapist,23,0
+11ab4961-96cb-4f9e-934b-5b7b6a9692a4,90,Male,Karachi,Platinum,35,60.71,Home Goods,2023-07-29,Homeopath,26,0
+ff8c98f3-2b0f-4a9e-903f-5143a1bd4621,74,Female,Tokyo,Silver,45,815.06,Home Goods,2023-08-20,"Designer, blown glass/stained glass",7,0
+4671c6ff-59d7-475e-bd92-e1dbeb34f220,66,Female,Mumbai,Silver,55,609.49,Electronics,2023-09-30,Video editor,10,1
+8c2f5816-7204-4752-86ca-5b60c5086f1d,26,Male,Beijing,Platinum,54,406.98,Electronics,2023-07-12,Immigration officer,1,0
+47d0ede0-1240-4bce-b42a-67a5881a608b,65,Female,Mumbai,Platinum,33,994.84,Clothing,2023-10-27,Patent examiner,9,0
+604675f6-6ea2-4451-85dd-21fa4a27f94b,75,Female,Tokyo,Silver,96,411.12,Home Goods,2023-04-11,Armed forces logistics/support/administrative officer,6,1
+df4c81a5-daea-431e-aeb4-a9b74a167910,79,Female,Karachi,Bronze,91,357.85,Home Goods,2023-07-20,IT sales professional,3,0
+a69e65fb-718c-4a1f-bcfd-ac057d3b8f6a,55,Male,Mumbai,Bronze,9,849.05,Clothing,2023-01-31,Clinical research associate,12,1
+4417fbe3-594c-4579-94c4-6b4bf7e97f5b,32,Male,Jakarta,Gold,25,957.01,Electronics,2023-10-16,Operational investment banker,27,0
+105b32d6-0a18-4215-a19b-a365f15980fe,30,Male,Bangkok,Bronze,28,833.38,Home Goods,2023-10-23,English as a second language teacher,15,0
+18f7aebf-002c-40d4-a7dc-02e894b37577,85,Female,Seoul,Platinum,79,103.17,Clothing,2023-08-17,Comptroller,2,0
+1cde4892-ab44-4267-87ea-3dc71c79592c,58,Male,Mumbai,Platinum,54,92.64,Electronics,2023-07-08,Press photographer,30,0
+f02e3b13-2b88-40fa-a325-a9d7891361dc,33,Male,Seoul,Platinum,6,538.29,Home Goods,2023-02-22,"Producer, television/film/video",27,1
+58273366-029e-4f5b-b48c-8d05209db42e,72,Male,Seoul,Bronze,64,426.68,Home Goods,2023-02-28,Warehouse manager,2,1
+f00b2791-6f7f-42a3-96a6-1135a80d23f3,73,Male,Beijing,Bronze,60,326.46,Clothing,2023-05-14,"Designer, exhibition/display",8,0
+0b4b90f8-6bee-414d-8c70-ffb42dfdbdba,17,Female,Mumbai,Bronze,3,615.52,Clothing,2023-05-10,Travel agency manager,16,0
+9dbc7f31-e685-4902-bf47-4371fd1a12f3,88,Male,Shanghai,Bronze,18,290.22,Home Goods,2023-02-25,Human resources officer,9,0
+562689c1-ea71-4d19-b2e9-012165e5dedb,71,Male,Tokyo,Gold,42,770.46,Electronics,2023-09-24,Contracting civil engineer,30,0
+8df70ad4-f1f0-469c-a7ff-d68096c0861f,19,Female,Karachi,Bronze,82,467.2,Electronics,2023-09-15,"Embryologist, clinical",7,0
+4ccbbf40-22d5-4120-98ac-b456acc3c101,42,Male,Beijing,Bronze,25,233.72,Electronics,2023-06-17,"Therapist, music",22,1
+6b16b569-2f0f-4736-a347-47848f85d17d,74,Female,Tokyo,Bronze,73,149.6,Electronics,2023-04-24,Civil Service administrator,25,1
+41994578-f642-4c5f-88e0-f863d15ceeed,41,Male,Bangkok,Platinum,34,246.93,Home Goods,2023-04-01,"Education officer, museum",20,1
+224115f8-5fb4-4315-ab8f-204aedbc053a,38,Female,Tokyo,Silver,73,310.12,Electronics,2023-10-22,Mining engineer,25,0
+6223d1ff-4b87-4b41-968c-b6b2e3bf213f,28,Female,Tokyo,Gold,89,682.45,Electronics,2023-04-16,"Engineer, biomedical",2,0
+7058d0e2-af3b-4c2f-b525-58365e74a4e3,63,Female,Istanbul,Gold,46,675.91,Home Goods,2023-05-26,Community pharmacist,27,0
+342f32c7-0df4-4ef1-bd29-73b5963403ee,35,Male,Mumbai,Platinum,97,339.76,Electronics,2023-05-21,Health and safety adviser,24,1
+8186f33b-fbd3-4d3b-bea0-8b7f529274c7,51,Male,Shanghai,Platinum,74,630.2,Clothing,2023-02-02,Research scientist (medical),23,1
+924c3659-b801-40a9-a1d5-e75c8d0e6d2e,22,Female,Beijing,Silver,72,300.5,Clothing,2023-08-31,Fitness centre manager,20,1
+a7140f94-d988-4bf9-a4ef-08514f75b803,46,Female,Istanbul,Bronze,85,188.15,Home Goods,2023-11-26,Leisure centre manager,15,0
+5c23d994-23e1-40da-826c-100f3985eb26,49,Female,Karachi,Bronze,6,309.63,Clothing,2023-07-01,Banker,16,1
+c5f0ba63-ffd1-497a-931e-d2a2dcf26095,57,Male,Istanbul,Silver,21,380.67,Clothing,2023-06-24,"Development worker, community",13,1
+4f02da0c-e50e-43b8-ac64-a57cef7801b7,89,Male,Jakarta,Gold,91,907.33,Clothing,2023-12-10,"Geologist, wellsite",27,0
+fe89f9f6-4657-4851-81c8-8bb1fed60c91,33,Female,Istanbul,Platinum,95,379.51,Home Goods,2023-10-15,Commercial horticulturist,23,0
+065bc50a-dfbf-46ca-9a17-c54cae1e0665,32,Male,Seoul,Gold,83,778.69,Home Goods,2023-12-10,"Engineer, materials",24,0
+29fe731d-e4a1-4f8b-b55d-d874848ad5aa,19,Male,Bangkok,Platinum,58,762.91,Clothing,2023-06-14,Furniture conservator/restorer,30,1
+e1d95dbc-a643-4868-a55f-902ff1b227f9,16,Male,Seoul,Silver,52,768.05,Clothing,2023-04-08,Newspaper journalist,26,0
+68df57ed-9f4d-44fb-8b67-b08a770072c8,87,Female,Mumbai,Gold,100,716.81,Home Goods,2023-09-27,Sales promotion account executive,29,1
+aae5416a-27a9-4921-9244-cdcc81c9a24d,69,Male,Shanghai,Platinum,27,748.37,Clothing,2023-03-16,"Social research officer, government",9,0
+9a1b15a8-f150-4344-82c3-19140c7acfd0,49,Female,Mumbai,Gold,72,313.72,Clothing,2023-02-24,Location manager,27,0
+013d7dab-9387-4923-bd39-ec49e04855fa,61,Male,Karachi,Bronze,54,591.21,Electronics,2023-05-21,Forest/woodland manager,16,1
+90411eed-a3e0-47ef-a1c3-461aefb8dd00,27,Male,Jakarta,Gold,82,556.95,Clothing,2023-01-30,Commercial horticulturist,6,0
+9b3fa8fe-c758-4691-b5f8-912b8257c59f,27,Female,Bangkok,Silver,28,420.3,Home Goods,2023-09-11,Actuary,30,0
+05d5aba9-f25c-4aa1-b7c5-56d7633f3d01,46,Female,Beijing,Bronze,28,513.85,Clothing,2023-02-17,Analytical chemist,28,0
+5967a25c-5ebb-4dc7-83be-9c702bae197d,49,Male,Mumbai,Bronze,95,363.64,Home Goods,2023-06-16,Chartered accountant,13,1
+e4ca56f9-4ff7-4eb6-9c62-75d3d9e5d946,19,Male,Tokyo,Silver,33,881.18,Clothing,2023-07-01,Chartered legal executive (England and Wales),21,0
+e7bbbe7a-32fe-4e36-8da8-af18e67e9f78,89,Male,Tokyo,Platinum,87,568.58,Electronics,2023-03-12,Metallurgist,16,0
+4d7f45c2-cdde-4682-9cc3-fafd5a08ca7b,62,Male,Bangkok,Silver,60,916.16,Electronics,2023-12-10,Sports therapist,10,1
+2d10f38b-5883-4af4-8860-ea1bc3263d2e,69,Male,Mumbai,Platinum,9,954.01,Electronics,2024-01-01,"Designer, television/film set",4,1
+419e431a-fd78-42b3-8172-af1d1caaaeae,43,Female,Shanghai,Silver,74,452.57,Home Goods,2023-08-18,Aid worker,24,0
+fc415846-7c0b-46a8-ac43-3cf4699da860,65,Male,Istanbul,Gold,22,733.16,Clothing,2024-01-06,Fast food restaurant manager,7,0
+f0847984-4da0-495a-9597-2d12c44bc947,64,Male,Seoul,Silver,20,868.97,Clothing,2023-05-23,"Librarian, academic",2,1
+b83d7e9a-52da-4472-bcba-462d6710d9c3,76,Female,Mumbai,Silver,73,658.42,Electronics,2023-02-13,Trading standards officer,10,0
+fc95eb82-0019-4127-b42b-19c271ceb4d1,76,Female,Tokyo,Bronze,75,251.81,Home Goods,2023-02-06,Land/geomatics surveyor,25,1
+51c8f747-eb4d-4076-bbbb-8cfee2869a42,52,Female,Bangkok,Bronze,60,315,Home Goods,2023-06-19,"Engineer, mining",10,1
+c488be11-24d1-4411-86f3-1335dd8497dd,61,Male,Tokyo,Silver,81,614.67,Home Goods,2023-12-06,Make,6,0
+27e21a54-66e2-4be9-b314-cfcb557b07c9,27,Male,Karachi,Silver,19,881.27,Clothing,2023-09-02,Environmental manager,30,0
+68d39a8f-0a2a-49c1-9310-667aa6e05b3d,25,Female,Shanghai,Silver,10,138.35,Clothing,2023-11-14,"Loss adjuster, chartered",22,0
+e05b5625-63d5-4e2a-a006-a25f79251148,49,Female,Shanghai,Platinum,90,98.69,Home Goods,2023-03-08,Editorial assistant,1,0
+cb2dfb3c-d550-4340-af71-2c30890c3e94,71,Male,Shanghai,Bronze,51,813.39,Clothing,2023-08-16,Leisure centre manager,5,1
+097ecad4-0f87-492a-a9c5-fa37a1664520,88,Male,Bangkok,Gold,52,376.74,Electronics,2023-08-11,Management consultant,2,0
+dcf0d3ee-6c82-47c8-8ac7-d620c70be209,31,Female,Seoul,Platinum,97,73.58,Clothing,2023-07-18,Human resources officer,24,1
+d917b7f8-1cc8-49f9-87c0-3b835cb4d1f4,79,Male,Jakarta,Silver,89,987.78,Electronics,2023-10-10,Advertising account planner,5,0
+737fe5b2-d9a9-4dac-88b0-356a64db33ee,61,Female,Shanghai,Gold,50,184.08,Clothing,2023-03-18,Podiatrist,14,1
+bded834d-955f-447f-947e-c40f34412efc,83,Male,Karachi,Platinum,89,729.3,Electronics,2023-04-20,"Engineer, site",8,1
+80f0866c-1b8c-46d4-a43b-1905c5c51dc0,78,Male,Tokyo,Silver,93,641.78,Clothing,2023-04-01,Field trials officer,2,1
+3cc4680a-d247-4d98-be81-33a2e5bc7486,37,Female,Istanbul,Silver,67,910.63,Clothing,2023-09-07,"Scientist, water quality",20,0
+8554ad46-f33b-41e4-a750-915c6427b79e,48,Female,Beijing,Bronze,28,516.04,Electronics,2023-05-12,"Designer, exhibition/display",29,0
+722b3001-e156-4dda-8499-820ef25a750c,20,Female,Jakarta,Platinum,55,173.9,Clothing,2023-01-20,Retail merchandiser,23,1
+a92da8f6-aa09-4cf0-9499-86a5a5d9db3f,16,Male,Shanghai,Platinum,13,607.38,Clothing,2023-12-23,Sub,22,0
+2ada9d86-da71-4082-a500-bd7c7552b6dc,42,Male,Istanbul,Platinum,43,709.29,Electronics,2023-04-09,Telecommunications researcher,2,1
+0f8d0a0f-208c-4ffd-b297-4eccee2b1a9f,43,Female,Tokyo,Silver,40,720.66,Electronics,2023-02-20,Marine scientist,1,1
+a9ac629c-e940-4b8d-a4f1-96b6f0415143,57,Male,Tokyo,Platinum,7,139.2,Electronics,2023-05-11,Copy,19,0
+c584a7fe-baf9-4c58-a621-157d70ac8b1c,85,Male,Tokyo,Silver,31,959.68,Home Goods,2023-03-10,Surgeon,9,0
+516224a2-f222-41a4-bfcf-84a6c89e1669,54,Male,Mumbai,Gold,23,728.01,Electronics,2024-01-04,Arboriculturist,25,1
+f0d266dc-5010-453d-a910-6100e7ee6d85,30,Male,Jakarta,Bronze,62,829.94,Clothing,2023-05-25,Licensed conveyancer,27,1
+4dddfa0b-2f15-4b62-8832-d922e82dd7ed,54,Female,Tokyo,Silver,75,737.8,Home Goods,2023-07-17,Public affairs consultant,20,0
+45a5f3e2-ed7f-4151-91a6-d0e928c2407d,17,Male,Karachi,Bronze,26,257.65,Electronics,2023-04-02,"Librarian, academic",3,1
+34548a7c-dea1-47e0-9c07-a469f5caa0c8,46,Male,Bangkok,Platinum,60,297.08,Clothing,2023-04-23,Optometrist,6,0
+f67be1b8-11a3-4693-be7b-224c1d15b814,72,Male,Mumbai,Platinum,34,961.21,Clothing,2023-06-27,Estate agent,25,1
+f7edd603-df11-4d53-88a7-bcd44270e7dc,62,Female,Jakarta,Platinum,7,477.58,Home Goods,2023-09-17,Dancer,9,0
+31891ac1-90c0-45c8-9e00-61dab18312f1,41,Male,Karachi,Gold,49,864.52,Clothing,2023-06-29,Scientific laboratory technician,15,1
+930dbb45-a155-4022-9cae-49a678ae4730,21,Male,Istanbul,Platinum,95,788.26,Electronics,2023-11-28,Human resources officer,5,1
+74b3fb64-ddd6-48fd-8568-ec5c72c53b00,46,Male,Tokyo,Silver,79,72.71,Home Goods,2023-04-28,Hydrogeologist,28,1
+a6e7daec-f2ef-4062-9741-41336f53390e,76,Female,Shanghai,Gold,2,407.09,Home Goods,2023-03-07,Transport planner,12,0
+9874719b-826a-43ca-a29c-4b34581ae1cc,21,Male,Karachi,Gold,73,778.76,Clothing,2023-09-06,Geochemist,16,0
+889d5abf-4750-406d-a456-2abf18defcd9,49,Female,Istanbul,Bronze,46,155.05,Home Goods,2023-06-23,"Accountant, chartered public finance",8,0
+49ab3c24-7c7a-401a-96c9-e26d0876e1d2,50,Male,Bangkok,Gold,70,814.12,Electronics,2023-05-18,Chief Technology Officer,27,1
+136d2765-52f6-47a1-88ff-9d9310296995,34,Female,Bangkok,Bronze,67,577.64,Home Goods,2023-03-16,Chartered certified accountant,3,0
+a5d68ebc-65d5-4f35-974d-f32dd32e0684,16,Female,Beijing,Bronze,34,519.02,Home Goods,2023-03-16,Product designer,23,1
+f737191a-88b3-435a-bc9e-9338a305d3ce,33,Male,Istanbul,Gold,99,696.99,Home Goods,2024-01-02,Arboriculturist,7,1
+6fcf5a60-24a3-46dd-9d1d-8728ae110aac,82,Male,Bangkok,Silver,44,392.61,Home Goods,2023-04-16,Clinical molecular geneticist,22,0
+67392575-35ca-4a1d-b167-35960e4526c4,87,Male,Tokyo,Silver,13,917.43,Home Goods,2023-01-10,Geographical information systems officer,24,0
+fc1d65f3-9aca-4652-bbe3-0dca1ba71ff3,26,Male,Bangkok,Gold,97,605.09,Electronics,2023-11-11,TEFL teacher,27,0
+6b5bfe0c-5203-4064-b8bd-3dc753ed5714,74,Female,Jakarta,Bronze,85,486.82,Home Goods,2023-05-09,Diagnostic radiographer,28,1
+c8a0ba63-2f2d-493f-bd32-18348e3532c3,25,Female,Mumbai,Bronze,10,208.87,Electronics,2023-09-29,Tax inspector,8,1
+2a329782-acfb-4805-828e-4377cadc108b,18,Male,Beijing,Platinum,59,997.56,Clothing,2023-12-29,Media planner,3,1
+c0d7ab90-a16e-4a26-ba44-fcdf5153a683,49,Male,Mumbai,Bronze,14,820.03,Home Goods,2023-03-10,Community development worker,10,0
+d390f771-def9-4fe9-8ce1-dba5e03c183a,32,Female,Beijing,Platinum,1,223.52,Electronics,2023-09-28,"Engineer, electronics",10,0
+9a685a02-133f-46e3-9997-8b0e6b2c179b,57,Female,Beijing,Silver,52,622.16,Home Goods,2023-04-28,Occupational psychologist,2,1
+1a8a5a11-4d74-43a6-8163-fc4ba4ba0643,74,Female,Jakarta,Silver,13,704.62,Home Goods,2023-05-03,"Pharmacist, hospital",24,1
+18823644-b2d2-4438-8ad0-c361ce037b68,64,Male,Seoul,Gold,14,481.21,Clothing,2023-10-10,Contractor,27,0
+ea0d1e40-21d8-477b-88fc-76d9cca9ae2d,76,Male,Tokyo,Gold,94,504.21,Home Goods,2023-10-08,Patent examiner,9,0
+242bf9e6-5d4a-4a17-9779-202c023944c4,42,Female,Shanghai,Silver,10,280.96,Clothing,2023-02-24,Clinical molecular geneticist,9,1
+4f882cd9-7e17-476f-8ae5-439ee930d9ba,88,Female,Shanghai,Platinum,23,835.78,Clothing,2023-11-24,"Pharmacist, community",2,0
+bf16fcf3-8861-48c4-8c26-67a438478b64,48,Male,Seoul,Platinum,100,604.91,Home Goods,2023-02-28,"Administrator, Civil Service",11,1
+5819ee62-94d5-4ea0-91b2-735cedc8d296,84,Male,Tokyo,Bronze,5,126.66,Clothing,2023-10-06,Public affairs consultant,28,0
+92a41a2a-b17e-4821-9faf-e96a55368d47,34,Male,Beijing,Gold,89,808.53,Clothing,2023-09-29,Petroleum engineer,6,1
+52927eb8-74b4-4be7-8a1f-73bc93bb0258,76,Male,Jakarta,Bronze,85,642.08,Electronics,2023-07-27,Advertising account executive,15,0
+509cab16-2bc0-476c-8f81-18aa3d54b3a8,62,Female,Beijing,Bronze,21,422.9,Clothing,2023-08-30,Furniture conservator/restorer,1,0
+d81d68d1-6206-4565-8a4a-b4e4a5c1564a,75,Female,Jakarta,Bronze,1,324,Electronics,2023-05-07,"Therapist, sports",10,0
+9f134a69-ad58-4e66-be58-7417b8388fab,78,Male,Mumbai,Silver,75,935.48,Electronics,2023-07-13,Quantity surveyor,14,1
+eef7b5c4-0f22-4563-9cb7-75bbefde5a3b,19,Female,Seoul,Gold,25,636.24,Electronics,2023-09-08,"Pilot, airline",19,1
+0a3e0b4c-26a9-4117-b429-88f67f9b422e,73,Male,Beijing,Gold,82,127.25,Home Goods,2023-10-30,Recruitment consultant,25,0
+555c577a-1653-4e70-a42d-2828ca0a360d,16,Female,Mumbai,Platinum,65,66.65,Clothing,2023-04-24,Heritage manager,19,0
+003bbf98-e7a0-46cc-a2a6-79fbff39586f,89,Female,Bangkok,Bronze,72,215.48,Home Goods,2023-03-18,Sports coach,14,1
+c471e8ed-0c61-43f2-8aac-e579a37b47f3,22,Male,Shanghai,Gold,43,176.58,Home Goods,2023-03-28,Building surveyor,27,1
+6ccaddef-9538-4ea9-be81-c4b15daf9422,54,Female,Mumbai,Platinum,60,166.42,Clothing,2023-03-17,Banker,24,1
+e8e249bb-5378-4f7f-b81b-883a46c15f9c,73,Female,Shanghai,Platinum,89,680.37,Clothing,2023-10-05,"Engineer, civil (consulting)",3,1
+314ed4a5-24f4-4d12-b09b-f0b378065ee6,47,Male,Istanbul,Silver,90,337.9,Electronics,2023-05-02,Seismic interpreter,8,0
+046fb16a-6b42-4787-94df-a4f2bcd01c27,39,Male,Beijing,Platinum,99,631.91,Home Goods,2023-09-12,Theme park manager,12,0
+d35a38e8-6a80-4ef9-b640-f2b2d0b47e2e,70,Female,Jakarta,Platinum,32,503.31,Clothing,2023-04-26,Senior tax professional/tax inspector,19,1
+899dbde3-c183-473d-a7e2-0c42c024688f,70,Female,Shanghai,Silver,51,388.33,Home Goods,2023-09-09,Graphic designer,26,0
+a7172250-b7ef-435a-b8c5-0f195a69af79,85,Female,Istanbul,Silver,6,827.38,Clothing,2023-06-28,Intelligence analyst,25,0
+7e84c4fd-36b2-4e7a-8ddd-ff9aca767070,22,Female,Tokyo,Silver,41,875.64,Electronics,2023-03-27,"Engineer, biomedical",20,0
+3213c0a4-05d8-4a5b-b328-0739d5503660,88,Male,Tokyo,Platinum,35,456.35,Electronics,2023-07-11,Electronics engineer,30,1
+b1b63b76-c798-4d23-9d92-f3f28b049238,27,Female,Istanbul,Silver,64,183.6,Electronics,2023-02-03,Geophysical data processor,12,0
+e2517101-75a6-4848-9414-0a13a175f073,73,Female,Beijing,Bronze,98,724.23,Electronics,2023-08-27,"Engineer, technical sales",19,1
+5fad263f-8b48-4782-a41d-5dad90f2a319,68,Female,Shanghai,Silver,42,535.4,Home Goods,2023-10-12,Learning mentor,15,1
+89daf0be-9243-4d77-a095-7a281bf15a93,24,Female,Karachi,Platinum,55,716.48,Electronics,2023-01-12,Ambulance person,24,1
+6b20ed1a-f491-4cda-baa4-90b945edca96,49,Male,Istanbul,Platinum,43,127.25,Clothing,2023-11-30,Commercial/residential surveyor,15,0
+1b1e875f-d17c-4779-826d-07422f573730,22,Female,Jakarta,Gold,60,525.65,Home Goods,2023-06-18,Quarry manager,11,0
+1cec1dc3-fa62-4351-aa7c-062f6ae55b62,55,Female,Tokyo,Silver,67,949.22,Electronics,2023-04-13,Magazine features editor,29,0
+d9bb1e9e-010d-49ce-a0d3-5f1cf4c0b6a7,87,Male,Karachi,Gold,62,899.72,Clothing,2023-07-31,"Secretary, company",25,0
+ecda14a4-9fff-4c26-a861-8057f643b5f4,60,Male,Tokyo,Gold,89,831.28,Home Goods,2023-06-28,Cartographer,17,0
+32918815-4a90-46cc-b2b6-f5da18583944,68,Male,Karachi,Bronze,31,140.35,Home Goods,2023-11-02,Minerals surveyor,17,1
+c5688137-c5d6-4bfe-8e95-db09dc7150e4,42,Male,Beijing,Silver,21,219.08,Home Goods,2023-07-09,Community pharmacist,29,1
+bd364324-907b-4144-9c74-36056c5e8094,84,Male,Bangkok,Platinum,61,75.5,Clothing,2023-05-25,Medical laboratory scientific officer,15,1
+3b6944c1-a27b-4796-a26b-d2663e673e8b,75,Female,Jakarta,Bronze,33,460.56,Electronics,2023-12-26,Sales promotion account executive,11,0
+e7426baa-8d10-41d9-b1c6-f4a6e8457d78,30,Female,Mumbai,Bronze,65,245.8,Electronics,2023-03-18,Information systems manager,13,0
+449da831-1bea-46bd-9c72-e7b5fa15c30d,78,Male,Tokyo,Silver,62,953.65,Electronics,2023-11-10,"Journalist, magazine",28,0
+09c9caac-ea71-4b4f-8eb9-1f1096f44058,15,Male,Karachi,Bronze,63,862.05,Clothing,2023-04-07,Interior and spatial designer,24,0
+0a0331ab-ce9e-407c-a55d-089b339284cc,22,Female,Istanbul,Silver,73,179.72,Electronics,2023-12-30,Agricultural consultant,2,0
+9633d5bb-dfdf-465a-b63e-4fe91f9cb920,26,Male,Karachi,Gold,38,186.75,Home Goods,2023-07-07,Pathologist,16,0
+cb1a917a-d6cc-42b5-a737-d3f296472dd6,48,Female,Shanghai,Gold,26,616.65,Electronics,2023-10-04,Community arts worker,22,0
+b9f180a2-8dac-4e6a-87f0-0e6e504bae00,34,Female,Tokyo,Bronze,2,827.9,Home Goods,2023-09-16,"Geologist, engineering",28,1
+25512f0f-ac1d-4731-9d36-5f9f02f59587,84,Male,Jakarta,Platinum,99,438.57,Home Goods,2023-08-05,"Education officer, environmental",14,1
+af3bb2f5-d4d8-416b-a4fd-e78149032b4f,20,Female,Tokyo,Bronze,60,887.22,Electronics,2023-09-04,Midwife,30,0
+0a3bf5af-8a28-4d30-9a99-07d1586c7d6a,19,Female,Beijing,Silver,14,886.23,Home Goods,2023-09-29,Adult guidance worker,20,1
+fa9408e0-c328-4885-ac45-4feed1353487,17,Female,Istanbul,Silver,15,844.61,Clothing,2023-09-01,"Scientist, marine",20,0
+c2fade5b-2a96-4856-9ed1-0ed18cce9f8c,51,Male,Shanghai,Silver,38,695.49,Clothing,2023-04-12,"Teacher, early years/pre",19,1
+57c87de4-ce45-499f-8537-6a7f46dc3da2,41,Female,Mumbai,Silver,21,813.56,Electronics,2023-01-16,Stage manager,11,1
+c325ed7a-2c93-4369-ad00-90607c80e136,16,Female,Bangkok,Platinum,10,459.93,Electronics,2023-03-08,Chartered legal executive (England and Wales),24,0
+f29b97dc-0582-440b-938b-43115db604d6,21,Male,Shanghai,Gold,20,92.34,Clothing,2023-09-05,Counselling psychologist,16,1
+1d3da7fd-0414-487d-929f-e617d1a70b5b,17,Male,Tokyo,Bronze,68,111.2,Electronics,2023-07-08,"Psychologist, forensic",14,0
+186874eb-1d21-4afa-a8ef-b95d710691b2,34,Female,Seoul,Platinum,86,307.2,Clothing,2023-04-07,"Horticulturist, amenity",26,0
+51477182-f265-4357-b14e-af55fb39cebc,71,Male,Jakarta,Silver,97,740.15,Clothing,2023-08-13,Actor,5,0
+777460f4-0d4e-42e4-b735-6fe908a9ec00,23,Male,Mumbai,Silver,9,946.97,Clothing,2023-09-21,Tax adviser,24,0
+19867838-1585-4169-a960-68b982523371,74,Female,Beijing,Platinum,44,108.41,Clothing,2023-05-29,Landscape architect,28,0
+040d9db1-48e4-44c0-a4f6-7876675a07e7,29,Male,Seoul,Gold,89,169.94,Electronics,2023-10-11,Art therapist,14,1
+3a516eda-da81-48fd-bfb2-4960faf93019,41,Female,Tokyo,Gold,26,689.12,Home Goods,2023-05-12,Brewing technologist,22,0
+c66d9601-fb61-4a31-8cf6-37ad58b03bf4,70,Female,Beijing,Bronze,88,735.95,Home Goods,2023-11-02,"Nurse, adult",18,1
+57faeb95-97e1-46b7-aaa3-7d2eeaa606e8,45,Female,Beijing,Gold,49,370.86,Electronics,2023-07-22,Counsellor,25,0
+673ba0f3-8b35-4de1-8f89-41b79286249e,17,Female,Jakarta,Bronze,26,689.2,Electronics,2023-05-15,Advertising account planner,2,0
+c29a13bf-b817-414e-b74d-87f882fcdd7a,39,Female,Beijing,Gold,22,92.16,Home Goods,2023-08-22,Publishing rights manager,12,0
+d519997d-8d76-47cd-a17c-23d769b7cf18,26,Male,Jakarta,Platinum,84,952.07,Home Goods,2023-03-06,Theme park manager,17,1
+1c795fbf-3917-410c-aeaa-96588ab74302,29,Female,Bangkok,Platinum,69,944.89,Electronics,2023-01-30,Audiological scientist,24,0
+a2b09709-18b5-482d-813c-6b1edbe8af8e,37,Male,Istanbul,Silver,16,585.73,Electronics,2023-07-20,"Production assistant, radio",6,1
+1bc5096d-43e5-4101-89a2-9606c3f97ed8,48,Female,Mumbai,Gold,14,992.54,Clothing,2023-06-13,Mechanical engineer,10,1
+6c6d6dad-337c-4df5-9604-c635349c3eac,43,Male,Shanghai,Bronze,20,387.84,Home Goods,2023-07-20,Printmaker,4,1
+01ea6621-28d1-416e-934e-b00f4529bef5,69,Male,Seoul,Silver,12,485.99,Electronics,2023-03-06,Health promotion specialist,30,0
+0bbc8f64-d531-46e1-ac38-4c0b3418a639,78,Female,Karachi,Gold,7,911.64,Electronics,2023-03-29,Theme park manager,20,1
+5ac943f3-f5ca-4cf5-99b4-e48b94a50258,37,Male,Jakarta,Platinum,36,616.54,Clothing,2023-04-05,Higher education careers adviser,24,0
+e80c7bc3-aaa0-49b5-9dbf-10488ab2518a,83,Female,Tokyo,Gold,73,564,Electronics,2023-05-17,Research scientist (medical),16,1
+de6b920f-1898-4c8f-95e5-6a757652b07f,72,Male,Seoul,Gold,46,424.09,Clothing,2023-09-14,Commercial art gallery manager,13,0
+5bee098a-6208-46a1-b333-25d535d9a29e,74,Male,Jakarta,Bronze,44,975.33,Electronics,2023-06-07,Copy,2,1
+47f64253-67fc-4124-a249-1d2dd2ab6543,74,Female,Beijing,Platinum,55,280.78,Home Goods,2023-02-07,Network engineer,17,0
+69a1a08f-a2ec-406f-9990-844291c7e313,32,Female,Tokyo,Silver,55,676.07,Electronics,2023-10-12,Medical illustrator,23,0
+9d1a6377-4581-4871-83ce-09dbfa6c2ea7,44,Male,Mumbai,Bronze,83,431.17,Home Goods,2024-01-04,Building surveyor,20,1
+0f6876b7-6674-44b8-9b3b-43723df90679,90,Male,Shanghai,Bronze,27,326.07,Clothing,2023-07-28,"Engineer, manufacturing systems",27,1
+91b900e0-edc3-4be0-8991-7776da3c4ac6,86,Female,Tokyo,Platinum,51,701.11,Home Goods,2023-02-02,"Accountant, chartered certified",24,1
+c746fb17-db1c-4d52-a33e-db945e6f1417,66,Female,Shanghai,Silver,39,943.44,Home Goods,2023-12-27,Learning mentor,22,1
+7e9ccf29-8fe5-4f78-97ce-5db102ea4379,61,Male,Shanghai,Platinum,75,60.61,Electronics,2023-05-18,Manufacturing systems engineer,1,0
+d5940a04-d0fd-4de4-97ca-bb166e9c47a7,57,Male,Bangkok,Bronze,98,564.89,Clothing,2023-08-01,"Designer, fashion/clothing",30,1
+36fd4e5a-fc50-435c-9b7b-8cccf6368900,40,Male,Mumbai,Bronze,96,394.43,Electronics,2023-02-10,Academic librarian,5,0
+1fcc134c-0468-42c6-96da-4bdf16bb5b41,45,Male,Istanbul,Platinum,87,518.17,Electronics,2023-09-13,Mental health nurse,11,0
+dc303436-e530-440e-8e96-c41c8d6310a7,17,Female,Bangkok,Bronze,70,597.97,Electronics,2023-06-18,"Production assistant, radio",18,1
+b1cf83b5-cec0-444c-b8ff-29b015f5bb70,34,Female,Shanghai,Silver,6,559.74,Clothing,2023-02-15,Psychotherapist,25,0
+b97cb516-b9c3-49b1-a580-a56b75012566,45,Male,Jakarta,Platinum,4,643.53,Electronics,2023-09-16,Homeopath,21,0
+ee8bf4c9-2518-46e7-813a-196c93a81e1a,49,Male,Istanbul,Platinum,51,979.2,Electronics,2023-11-22,Information officer,20,0
+4feab9e5-796f-4895-8282-5b273c0c2835,46,Female,Seoul,Bronze,25,163.63,Clothing,2023-09-19,Airline pilot,11,1
+d8c13e9a-b952-483b-8d9e-7f02213a2c26,83,Female,Shanghai,Platinum,49,797.58,Electronics,2023-08-14,Lobbyist,20,0
+a71605d0-8bf5-451c-b5e4-be9273fc0622,87,Male,Tokyo,Silver,8,488.4,Home Goods,2023-06-09,"Editor, film/video",3,1
+3874f64f-8a49-4b1b-921a-d4390e73fd56,50,Male,Tokyo,Platinum,76,702.28,Electronics,2023-06-09,Theatre manager,8,0
+5a2e6a54-6346-4f9f-8589-4c9e642a6dc5,89,Female,Beijing,Gold,76,798.99,Electronics,2023-03-30,Textile designer,9,1
+83bf3989-8314-4545-aeaf-4a2357983de9,28,Male,Istanbul,Platinum,11,865.45,Clothing,2023-12-30,Community arts worker,23,0
+eb850aa6-761d-4efd-9190-e704bd0e7921,29,Male,Bangkok,Gold,43,393.71,Home Goods,2023-03-29,Environmental consultant,4,0
+91425da7-a3f8-4fae-8630-cdac8695516b,15,Male,Tokyo,Gold,17,201.91,Home Goods,2023-08-16,Surgeon,30,0
+c77d5012-2748-4925-bbd7-00f35aa5804f,58,Female,Mumbai,Gold,90,523.32,Home Goods,2023-05-30,Illustrator,3,0
+9803949f-76db-4bba-a624-628de5b834bf,68,Female,Mumbai,Gold,24,521.51,Electronics,2023-07-04,"Designer, multimedia",8,0
+46b2e679-98f1-471b-ab61-c50c61577c5a,77,Female,Istanbul,Bronze,49,676.22,Home Goods,2023-10-09,Radiation protection practitioner,21,0
+63115266-ebe6-4f0e-acbd-099f121ef33d,29,Male,Jakarta,Silver,50,832.42,Clothing,2023-05-31,Clothing/textile technologist,28,0
+98d9c934-877b-4164-abba-539428c374d5,41,Female,Mumbai,Gold,51,552.79,Electronics,2023-12-30,Graphic designer,14,0
+85d89120-97fd-4046-8110-4295b82407d3,24,Male,Karachi,Bronze,30,54.91,Clothing,2023-08-14,"Scientist, research (life sciences)",1,1
+3fc96f22-5afb-44b0-a927-96c82fce298a,36,Male,Bangkok,Silver,78,975.71,Clothing,2023-11-24,Hydrographic surveyor,3,1
+3399084d-867b-4df2-bc08-a20986526398,27,Male,Shanghai,Gold,59,645.09,Clothing,2023-05-23,Passenger transport manager,19,0
+13cdc476-75ed-44e6-bc15-0a48f51295f9,22,Male,Bangkok,Gold,18,930.41,Home Goods,2023-11-13,Comptroller,3,0
+a44da664-422b-414e-993c-de21520abb0c,20,Female,Jakarta,Bronze,85,420.44,Home Goods,2023-05-23,Minerals surveyor,13,1
+b1afa601-724b-4eb2-b3ae-300cd1c11c8b,22,Female,Tokyo,Platinum,13,474.65,Home Goods,2023-11-04,"Surveyor, minerals",15,1
+e99a8745-f299-427a-b6ab-2424fbbea100,34,Female,Jakarta,Bronze,19,696.14,Home Goods,2023-10-12,Risk manager,27,0
+f12ce5e7-3f70-42f9-924b-5c1e8b47dc2e,30,Female,Seoul,Bronze,80,196.27,Electronics,2023-05-09,Occupational hygienist,9,1
+6654b5ee-b985-4476-9d84-dd7bfadd8f1c,25,Male,Shanghai,Platinum,83,203.07,Home Goods,2023-03-14,Broadcast journalist,10,0
+e91f18e3-d106-4fa8-a53e-f387e96f71cb,88,Female,Tokyo,Bronze,11,373.49,Clothing,2023-03-13,Furniture designer,27,1
+98f6c596-ac7d-4f19-8c85-a86b9a97851b,58,Female,Tokyo,Silver,12,968.61,Electronics,2023-07-24,Operations geologist,29,0
+b7bfd500-2c6f-4d24-87e9-6cf4b80d0764,18,Female,Karachi,Gold,1,886.2,Clothing,2023-05-09,Probation officer,5,1
+6adf3833-a171-48a0-8888-00ea334b0c10,37,Female,Bangkok,Platinum,5,467.2,Clothing,2023-08-24,Photographer,4,1
+adc8a9dc-dea9-44f7-8315-e10439f0555f,23,Male,Istanbul,Gold,79,303.89,Clothing,2023-03-18,Research scientist (medical),22,0
+140e339d-8200-4b2c-9d53-5275fbd88397,68,Female,Istanbul,Silver,98,759.21,Home Goods,2023-08-19,Forensic scientist,19,1
+7217e9f1-7ad4-4787-b1da-e216066ee44a,67,Female,Istanbul,Silver,32,116.45,Electronics,2023-03-02,"Secretary, company",30,1
+0f374c44-5a30-4011-905b-beac23b67c2e,37,Female,Tokyo,Gold,48,160.86,Electronics,2023-10-01,Bonds trader,29,1
+56ba7828-6404-4834-95d7-2c4534d4604f,85,Male,Beijing,Gold,38,340.98,Home Goods,2023-10-24,Mudlogger,7,1
+9027a682-8ed7-42b7-950b-8030c6addbeb,29,Male,Bangkok,Bronze,67,234.41,Clothing,2023-09-11,Psychotherapist,19,1
+2fbd6b3b-54a3-4d57-a2e0-4efa51fc7c93,46,Male,Mumbai,Platinum,10,252.69,Electronics,2023-12-02,Insurance broker,6,1
+c62c4aba-fb07-4c1c-bb98-c170ff506fe0,57,Male,Shanghai,Bronze,21,836.86,Clothing,2023-01-10,Tax inspector,3,0
+bd54d05b-55ab-41a6-ac7f-ae0d1b560b82,80,Female,Shanghai,Platinum,29,56.08,Clothing,2023-03-18,"Journalist, magazine",7,1
+81ecd5ef-ed72-4441-929a-7e4b71286060,19,Female,Mumbai,Silver,1,302.79,Clothing,2023-10-12,"Engineer, civil (consulting)",15,0
+e0b9058e-9621-4698-87c0-210624dcdbd7,31,Male,Beijing,Gold,28,818.39,Electronics,2023-03-27,Private music teacher,27,1
+37bb0e24-119c-4760-9b51-07df3545b3b3,71,Female,Mumbai,Gold,26,575.2,Clothing,2024-01-06,Diplomatic Services operational officer,15,0
+c1a2e999-4e93-4423-9d98-b41d99ad2631,45,Female,Beijing,Bronze,42,168.54,Home Goods,2023-12-19,"Administrator, education",11,1
+bc5eaa48-c55e-4e74-bebf-9a649929d24c,57,Female,Mumbai,Silver,13,136.3,Home Goods,2023-03-15,Chief Operating Officer,1,0
+8fc9bd04-c929-4cf5-b168-d74caba53a16,45,Male,Bangkok,Gold,90,979.38,Electronics,2023-03-12,Museum education officer,1,0
+7e2ef6fb-ea03-47c1-869a-d04df8733ad6,43,Female,Mumbai,Silver,4,776.45,Clothing,2024-01-03,"Designer, fashion/clothing",12,0
+a57c2c0c-7a84-4eed-8680-bc189a80dc7c,31,Female,Tokyo,Bronze,58,519.65,Electronics,2023-04-21,Operations geologist,23,1
+426042b4-04ca-49eb-a499-44d6b546d963,48,Female,Jakarta,Silver,83,293.19,Home Goods,2023-03-03,"Engineer, agricultural",2,0
+74f7a264-7457-4c2a-aa43-0de59074dfcc,46,Male,Jakarta,Platinum,25,391.34,Clothing,2023-12-16,Industrial buyer,28,1
+1bfc0e09-038d-4cc5-95f7-7f5ddd3cd630,68,Male,Karachi,Silver,34,940.34,Home Goods,2023-11-20,"Education officer, environmental",29,1
+a1cd2656-2959-421e-b9c9-8bdf1340080d,74,Male,Shanghai,Bronze,88,406.67,Clothing,2023-06-10,Pensions consultant,2,1
+f7414d8d-dd11-4d51-9787-5fa3a0bc399a,21,Male,Beijing,Platinum,62,401.58,Electronics,2023-09-17,Aeronautical engineer,6,1
+913d1bb2-a9c8-47ac-96f6-51e424329611,53,Female,Seoul,Bronze,3,392,Clothing,2023-05-25,Translator,27,1
+15bad709-9bb1-4fe8-bb83-faa0c4f0faf9,15,Male,Tokyo,Silver,32,665.09,Home Goods,2023-04-10,"Research officer, trade union",26,1
+2ee967ac-747d-44c9-a934-90967851aa8f,83,Male,Beijing,Gold,51,329.67,Clothing,2023-05-16,Photographer,28,0
+9244653a-5d5d-4917-99af-121b88f852ec,41,Male,Mumbai,Silver,56,108,Clothing,2023-01-29,Animal nutritionist,22,1
+4c4897f0-cbfc-47fe-a036-4df9592aa63e,44,Male,Karachi,Silver,24,120.27,Home Goods,2023-09-07,Medical sales representative,26,1
+768359a8-4465-4eac-8ab7-ce592cb8d60f,35,Female,Mumbai,Platinum,88,827.54,Electronics,2023-07-13,"Psychotherapist, dance movement",5,1
+f9663526-74c0-49e6-91d4-9b276cb23a16,44,Male,Seoul,Bronze,1,399.89,Electronics,2024-01-02,"Designer, exhibition/display",11,1
+cadea84c-e42d-424c-a026-9f71476244e5,17,Male,Jakarta,Bronze,8,155.31,Clothing,2023-11-16,Web designer,28,0
+9821e615-c834-4071-b536-b9d9ca095aba,21,Female,Bangkok,Platinum,12,494.82,Clothing,2023-12-21,Sport and exercise psychologist,24,1
+1ded124c-ffac-4062-9579-7d90b9d9c37f,52,Male,Istanbul,Platinum,66,803.8,Home Goods,2023-08-13,"Designer, graphic",25,0
+24db3f99-4013-4b7f-a742-be5812b5f0c6,82,Female,Seoul,Bronze,58,792.98,Clothing,2023-03-18,Occupational hygienist,22,0
+4a727386-4d8d-4525-a686-0ed523857216,76,Male,Seoul,Bronze,90,513.74,Electronics,2023-02-17,Prison officer,25,1
+4f5f1439-588e-4a4f-a04c-9cfa72616afe,28,Female,Jakarta,Bronze,41,394.12,Home Goods,2023-08-19,Public relations officer,3,0
+8de5fd15-b747-47f5-9eff-7843ddd5165d,89,Female,Jakarta,Silver,71,333.62,Electronics,2023-12-01,Soil scientist,15,1
+6ee8c942-f40c-4d41-ac29-0cfe16935bb9,90,Female,Bangkok,Bronze,10,210.91,Electronics,2023-06-20,Publishing rights manager,13,0
+ba6b66a7-1d2b-4c96-a454-ec9b5aeb71c3,37,Male,Istanbul,Platinum,82,741.16,Home Goods,2023-10-12,Podiatrist,26,1
+f41a1c63-7eb5-4338-aac7-38fc28d66a9a,69,Male,Karachi,Silver,6,961.39,Electronics,2023-07-01,"Investment banker, operational",4,1
+1055c9cb-fc6b-4daa-b8c9-8c9eca91b22c,85,Female,Mumbai,Platinum,61,874.1,Electronics,2023-08-29,Banker,29,0
+b9d72bd4-6b8e-45c4-b5db-275a72e5b8ca,80,Female,Bangkok,Gold,99,531.09,Home Goods,2023-10-31,Software engineer,21,1
+5342d581-99bc-47d0-a65d-4abc44ecee87,59,Female,Istanbul,Gold,85,81.1,Electronics,2023-10-29,Pension scheme manager,10,1
+c855326e-d800-4717-957a-982576781198,40,Female,Beijing,Bronze,8,888.41,Electronics,2023-06-14,Commissioning editor,1,1
+10174335-8b96-41c7-b1ce-524b1cbde384,76,Male,Karachi,Silver,49,412.96,Clothing,2023-03-16,"Designer, television/film set",15,0
+7e0aa157-0913-4439-aa4b-db56f8eb25d5,73,Female,Shanghai,Gold,7,718.01,Clothing,2023-05-31,"Scientist, research (maths)",20,1
+023ae79a-4f28-4237-968e-995ec07c672d,39,Female,Karachi,Platinum,74,516.35,Home Goods,2023-04-21,Special educational needs teacher,16,0
+2cf2eea9-fd94-4029-bd41-d8ce8957cded,90,Female,Shanghai,Platinum,84,246.85,Clothing,2023-09-30,"Scientist, research (maths)",29,0
+e0d59cd6-b7bf-4ae4-ba97-1701c987841a,21,Male,Jakarta,Silver,26,138.1,Electronics,2023-08-22,Biomedical scientist,25,1
+3b273d46-6d60-4c78-abdb-b10dc19c25b6,42,Female,Karachi,Bronze,8,630.24,Home Goods,2023-07-29,Tax adviser,25,1
+662d0de7-d723-47ec-9f2f-3a1bd024155b,78,Female,Shanghai,Bronze,89,807.38,Clothing,2023-11-14,Electronics engineer,8,1
+79153d9b-8b7b-4cb2-839a-4cc272d24b6f,15,Female,Istanbul,Bronze,25,357.38,Home Goods,2023-01-29,"Engineer, control and instrumentation",20,0
+a80582c2-acb6-4581-99c4-edf9d1eb55b3,88,Female,Tokyo,Silver,61,818.14,Electronics,2023-01-10,Health visitor,14,1
+075755a0-8bda-41e0-8c40-c326fb4114fa,73,Male,Shanghai,Silver,13,59.96,Home Goods,2023-05-20,Systems developer,24,0
+ffd6bd4b-ccf1-4fb7-b4d3-a0270d8a8c0a,15,Male,Istanbul,Bronze,9,644.15,Clothing,2023-11-15,Telecommunications researcher,30,0
+9d8ec37d-7505-4900-8ab4-a28e1b982b7a,41,Male,Seoul,Silver,28,664.81,Electronics,2023-12-04,Aeronautical engineer,14,0
+45450459-17bc-4736-a0e4-68dbe30684de,76,Male,Bangkok,Silver,48,293.51,Home Goods,2023-04-09,Environmental consultant,9,0
+b60e0b86-9fd1-4bbf-917d-1fb0e9d4ae6f,74,Male,Seoul,Silver,20,120.26,Electronics,2023-09-13,Insurance account manager,17,0
+53edcf34-f1f3-4283-be29-cf4d1baad02a,52,Male,Mumbai,Gold,5,982.66,Electronics,2023-04-09,"Education officer, museum",3,1
+e5c70199-230b-4544-9ee5-af13e7058ebd,72,Male,Istanbul,Platinum,5,772.75,Electronics,2023-11-15,Music tutor,13,1
+7c62f0c9-fe54-462c-8198-4a3fdb5aea2e,63,Female,Karachi,Platinum,73,776.34,Clothing,2023-11-16,"Presenter, broadcasting",5,1
+e074cc44-1a76-4043-ad32-da8b994e4992,28,Female,Karachi,Platinum,100,176.59,Home Goods,2023-08-19,"Engineer, biomedical",12,0
+dd505386-bb32-4a0d-9ed3-de3717ba5630,70,Female,Karachi,Silver,59,482.05,Electronics,2023-10-28,Cytogeneticist,4,0
+b8751494-3e05-4550-8458-d5c44ddbf4fc,79,Female,Jakarta,Bronze,90,272.78,Electronics,2023-08-18,"Horticulturist, commercial",29,0
+5b688c46-31ca-420f-ac7b-357c3c7affdf,62,Male,Mumbai,Bronze,56,448.02,Electronics,2023-02-27,Bonds trader,12,0
+fd828091-75ec-4518-9fe1-1072ddd5df37,62,Female,Seoul,Gold,35,720.23,Clothing,2023-06-19,"Therapist, drama",9,0
+0b61ecef-a8b8-4ce7-b774-db8a69fef17c,73,Female,Seoul,Silver,71,266.57,Clothing,2023-02-26,Public relations account executive,25,1
+f2e64336-37d5-4ab0-b836-1f75716e41c5,15,Male,Jakarta,Gold,51,961.82,Clothing,2023-03-24,Clinical molecular geneticist,4,1
+55d7d379-de50-4891-83bb-e44ab7c8a31a,34,Male,Mumbai,Silver,90,230.92,Electronics,2023-05-31,Metallurgist,26,0
+789682c5-d83d-42b3-805d-d2c5efc99dff,62,Female,Mumbai,Gold,75,235.64,Electronics,2023-06-15,Operational investment banker,23,1
+789b9362-7d03-447c-a276-aac3170493a5,78,Male,Tokyo,Silver,100,806.63,Home Goods,2023-08-31,Quarry manager,6,0
+aaf84e77-3d82-4dda-a172-2b723e435aac,26,Female,Bangkok,Platinum,43,887.39,Clothing,2023-06-22,Community pharmacist,29,1
+9a72a0f8-aec1-497a-bcbb-f0dc408b3b05,80,Female,Beijing,Bronze,77,679.24,Home Goods,2023-01-29,"Scientist, audiological",18,1
+aee9abeb-d5c8-46b2-b198-15c711c17cff,41,Male,Istanbul,Silver,50,524.05,Electronics,2023-11-02,Drilling engineer,26,1
+4f63c134-bc5c-4f3f-a1eb-30517632f976,18,Female,Beijing,Gold,39,669.6,Home Goods,2023-05-07,Television camera operator,30,1
+f262a6d6-ef47-4dde-81e9-c94275e922cc,15,Male,Shanghai,Platinum,42,125.43,Home Goods,2023-12-24,Archaeologist,1,0
+9e8b3b60-d41b-4f57-89b1-a8c03b1fd39b,31,Female,Jakarta,Platinum,21,482.38,Clothing,2023-04-16,"Designer, blown glass/stained glass",11,1
+b76fcd98-b998-43b1-9258-9b079f232acf,52,Male,Beijing,Gold,95,975.11,Clothing,2023-05-16,Actuary,15,0
+292a9d8a-57b4-408d-a03e-db28825c762d,53,Male,Mumbai,Platinum,90,525.99,Electronics,2023-07-02,Artist,23,1
+53ee575a-d66e-466b-a1b5-0e4285450e94,81,Female,Karachi,Silver,3,876.34,Home Goods,2023-10-22,"Runner, broadcasting/film/video",30,0
+be2e6311-073d-4912-a92c-7731c8f31984,63,Male,Shanghai,Gold,22,153.36,Electronics,2023-02-26,Furniture designer,19,1
+e9e348b7-f38a-49aa-bf5a-b2f4865dd868,42,Female,Shanghai,Platinum,41,933.31,Home Goods,2023-09-25,Sports coach,7,0
+b9a012ca-7920-4887-910f-26c5ccfe7f96,42,Male,Bangkok,Platinum,25,247.66,Clothing,2023-12-06,Database administrator,14,1
+142afd89-22b2-4f2b-b2db-f7e483a6dcf8,41,Female,Mumbai,Platinum,8,515.6,Home Goods,2023-07-02,Corporate investment banker,30,1
+f1b56afe-1370-4010-ab5b-a341961c2cfc,48,Male,Seoul,Silver,35,581.08,Home Goods,2023-03-24,Ranger/warden,21,1
+5299ec6a-be39-4ca2-a647-f8bdba24eb21,80,Male,Mumbai,Platinum,32,576.48,Home Goods,2023-09-08,Biomedical engineer,13,0
+9492e429-5898-4469-837b-b7819bc213f2,21,Male,Beijing,Platinum,11,187.73,Clothing,2023-09-07,Seismic interpreter,16,0
+31fb2864-eb5b-4c89-9039-3000fdbcf6f7,51,Male,Bangkok,Silver,16,119.92,Clothing,2023-10-03,Electronics engineer,28,0
+0a966022-3d45-4caa-9824-3d9efbd6faf2,55,Female,Bangkok,Silver,25,265.45,Electronics,2023-03-03,Radio broadcast assistant,16,1
+34e52729-2110-4c34-82e0-34db6393b8dc,29,Male,Istanbul,Bronze,83,725.06,Clothing,2023-09-05,Health and safety inspector,21,1
+5a6c8909-a44e-4941-8bca-70a503eb5846,75,Female,Beijing,Silver,77,866.24,Home Goods,2024-01-06,Research scientist (medical),17,0
+fc7288f1-9f26-4486-b072-f974aa70afc6,69,Male,Beijing,Platinum,61,154.74,Clothing,2023-12-10,"Surveyor, insurance",12,0
+fbef5031-7788-417a-b7f7-4aa13a7eb8e7,53,Male,Beijing,Platinum,37,191.12,Home Goods,2023-03-27,Materials engineer,2,1
+f221ad3d-c9c0-4b22-8eff-b67e5bc64e1e,88,Female,Mumbai,Platinum,20,764.17,Clothing,2023-09-14,Information systems manager,14,1
+0767cdb7-1541-47a0-961e-8b62440a58ad,34,Male,Istanbul,Platinum,75,477.2,Home Goods,2023-03-19,"Psychologist, counselling",12,1
+be478f2c-1c26-49fb-8e2c-0763a757cb55,24,Female,Karachi,Bronze,43,70.39,Electronics,2023-04-21,Social researcher,3,0
+10df4139-1ae4-40ae-938c-db659edd3a7b,50,Male,Jakarta,Platinum,70,691.43,Home Goods,2023-08-31,Forest/woodland manager,20,1
+e891a2c7-779f-4ef1-ab9c-abd981e396d4,86,Male,Shanghai,Gold,1,226.58,Clothing,2023-07-11,Personal assistant,23,1
+70dc0941-6f03-428d-9cce-0301a154b66d,30,Female,Karachi,Bronze,59,98.05,Clothing,2023-06-27,Waste management officer,16,1
+15795aa5-4d94-4752-b077-f35f13baa67a,45,Female,Istanbul,Bronze,81,87.48,Home Goods,2023-05-22,"Designer, multimedia",3,1
+a33c6f2a-2d99-4064-ad29-bc8e94de5f82,67,Male,Bangkok,Gold,92,145.81,Electronics,2023-12-17,Call centre manager,18,1
+1caaa3d6-295e-4637-8f59-f050b5d978f4,72,Male,Shanghai,Bronze,8,177.91,Clothing,2023-03-07,"Programmer, systems",23,0
+c858adf7-3cab-473e-92bb-72e81679ad64,40,Male,Istanbul,Bronze,33,534.31,Clothing,2023-05-14,Chief Financial Officer,5,1
+f36a9eb5-e0e5-4cde-89a4-c5b9695f5abd,56,Female,Jakarta,Gold,53,446.78,Electronics,2023-11-23,Musician,14,1
+667d89f5-139d-48c5-9de9-fbbbea049c35,76,Female,Tokyo,Platinum,40,525.67,Clothing,2023-09-08,Agricultural consultant,12,1
+a22a3d5f-9a48-470b-b3f2-f21e0f70dd2f,25,Male,Seoul,Silver,24,60.54,Electronics,2024-01-06,Insurance claims handler,16,0
+e7184c57-7c36-4ce9-a22c-6c2cf26bda89,54,Male,Beijing,Silver,14,802.42,Electronics,2023-08-15,Glass blower/designer,24,0
+3f6e0167-6923-4e01-8692-f5d3247918e6,57,Male,Jakarta,Platinum,82,87.8,Clothing,2023-06-06,"Psychologist, forensic",3,0
+08bf7c52-c6a5-46c7-99b3-1de7d4d4311e,48,Male,Tokyo,Platinum,6,891.03,Clothing,2023-01-07,"Engineer, structural",9,1
+5830cee7-46eb-44d0-a9ea-2309a9e410a0,25,Male,Jakarta,Gold,2,421.92,Clothing,2023-08-15,Volunteer coordinator,3,0
+e120804a-9cd3-424b-8ae7-686e4c796b60,68,Male,Shanghai,Bronze,74,602.37,Home Goods,2023-01-27,Field trials officer,25,0
+0017fa2b-0a4d-447a-b26c-437de11f1b59,22,Female,Istanbul,Silver,32,383.37,Home Goods,2023-03-01,Chartered accountant,23,1
+ff9dc85f-963c-495d-8fb3-496c273fe31d,37,Male,Bangkok,Bronze,35,838.94,Home Goods,2023-01-29,Video editor,10,1
+0c6f3a44-97a6-413e-b7f5-2bc01f29f08b,83,Female,Istanbul,Bronze,96,990.1,Clothing,2023-09-28,Scientific laboratory technician,28,0
+4657e228-a78a-45f4-8c9f-5b65b41a981e,31,Female,Jakarta,Platinum,94,392.1,Clothing,2023-06-05,Biomedical scientist,6,0
+092a86ef-a62f-4ba6-be42-bef83db8bb91,78,Male,Karachi,Gold,61,843.54,Electronics,2023-09-04,"Surveyor, rural practice",9,0
+7f5cc3f3-b7c4-44cd-9942-b537a8a5cb8c,62,Male,Shanghai,Silver,100,812.05,Clothing,2023-07-22,Professor Emeritus,1,0
+68d81e34-938e-4a76-930a-e88e32591adc,40,Female,Istanbul,Gold,47,109.16,Electronics,2023-09-23,"Engineer, electronics",8,1
+6f2bbb94-951e-4a10-8828-24afe3f036e1,72,Female,Seoul,Gold,57,895.29,Clothing,2023-03-27,Advice worker,27,1
+6abf6501-8c0b-4d04-a9c9-c9dbee428eb1,36,Male,Beijing,Platinum,14,790.02,Clothing,2023-02-18,Water engineer,15,0
+2f2b245b-b403-42a6-9cb4-fe4bd3ece0db,67,Female,Karachi,Bronze,24,579.14,Clothing,2023-04-01,Environmental health practitioner,4,0
+394f57c6-24bb-4ec4-896d-6d568f35d2dd,45,Male,Tokyo,Silver,100,443.57,Clothing,2023-01-13,"Therapist, sports",30,1
+ad35ccab-cfa6-46ad-a6f9-42867d56c144,28,Male,Mumbai,Platinum,20,275.32,Clothing,2023-03-08,Architectural technologist,21,1
+3c959cdf-9d64-4fa3-af78-4f09fdd4b1e8,65,Female,Tokyo,Silver,39,919.09,Electronics,2023-05-04,"Teacher, English as a foreign language",28,0
+09830fd4-9e0a-425a-9d62-5a6a61ae6acd,73,Female,Bangkok,Silver,49,175.7,Clothing,2023-11-29,Intelligence analyst,26,1
+f7bdef93-2e79-4fc1-99fb-7bd1f205e788,30,Male,Istanbul,Platinum,16,668.65,Electronics,2023-12-16,Careers information officer,20,0
+1904eec7-3001-43c0-ac10-d5a6abca4afd,73,Male,Istanbul,Silver,70,657.13,Clothing,2023-08-05,Academic librarian,17,0
+8cb62577-c9d9-4d85-b961-7cdf7a8c1923,76,Male,Istanbul,Bronze,60,632.96,Electronics,2023-05-07,IT trainer,5,0
+1dae8ea9-c8eb-4329-9b75-914cf9f2f5d8,53,Female,Beijing,Platinum,78,391.75,Clothing,2023-03-22,Company secretary,1,0
+d85a8701-21d2-40c4-aa51-74b8b95f3930,89,Male,Beijing,Bronze,96,883.01,Clothing,2023-04-20,Counsellor,15,0
+fd1aaa06-5420-4247-9bd6-caa4ee8163bd,15,Female,Tokyo,Bronze,91,666.53,Home Goods,2023-02-02,Research scientist (medical),22,1
+74eff74b-b815-4462-bb3e-584a56ab982f,71,Male,Tokyo,Gold,75,614.79,Home Goods,2023-03-03,"Journalist, newspaper",9,0
+edfa311f-6078-4085-ace6-f69455c0127b,31,Female,Jakarta,Gold,86,137.53,Clothing,2023-06-04,Equality and diversity officer,5,0
+0b6b4e5f-00bd-4666-b992-56d7f83890c9,76,Female,Shanghai,Gold,36,213.63,Home Goods,2023-08-01,Forensic scientist,5,1
+e9b31d9a-385e-41d3-ad96-8ab38cc9743a,38,Female,Seoul,Silver,74,106.48,Clothing,2023-02-07,"Scientist, water quality",10,0
+f95a0620-dd5e-4cf5-b612-14c5899e8f83,81,Female,Tokyo,Gold,88,700.69,Home Goods,2023-07-26,Politician's assistant,2,0
+a15ed16d-15cc-4129-8f05-7301002a824d,69,Male,Tokyo,Gold,91,603.57,Clothing,2023-09-20,Health and safety adviser,18,1
+ce4e8f36-ec36-45e2-a531-e7c06ea20438,61,Female,Seoul,Bronze,68,809.02,Clothing,2023-01-21,"Administrator, local government",3,1
+b31231e1-e44f-441d-acbf-af70b961618e,33,Male,Bangkok,Gold,99,213.37,Home Goods,2023-06-29,"Nurse, mental health",21,0
+d8ed40d0-7330-42cf-9d7e-cab3bb5abf58,37,Female,Karachi,Platinum,71,556.52,Home Goods,2023-01-18,Public relations account executive,10,0
+c9764e35-287b-42e0-9238-2c654671e55c,62,Male,Seoul,Platinum,5,308,Electronics,2023-10-27,Science writer,2,0
+06e0bc0e-87d6-4882-b62f-a5146fdc3dec,52,Male,Mumbai,Gold,87,606.24,Electronics,2023-11-19,Legal secretary,6,1
+2ddbbf5a-5b16-4eab-b3bb-446dfe86312a,48,Male,Bangkok,Gold,25,295.95,Electronics,2023-05-27,Planning and development surveyor,9,0
+e7975a53-11ca-4bb3-81f0-fe685ff4b439,29,Female,Seoul,Bronze,61,168.63,Clothing,2023-12-10,Insurance broker,2,1
+dab10593-3025-48f8-a254-c640ec85db21,49,Male,Jakarta,Platinum,23,597.27,Home Goods,2023-09-05,Midwife,2,1
+cead5af4-89ce-4df1-9659-3ff3c1063044,59,Male,Bangkok,Silver,82,602.12,Clothing,2023-09-17,Medical sales representative,15,0
+57b3e8eb-78f5-41c8-a2c5-279e6b7e36b0,65,Female,Beijing,Bronze,53,339.15,Clothing,2023-02-19,Podiatrist,26,0
+7de0fbde-0ac0-4387-8162-cf9faa924f32,59,Female,Tokyo,Bronze,29,257.8,Electronics,2023-02-15,Health and safety inspector,21,1
+ca818388-6b75-43eb-9876-bcd558a88b99,81,Female,Shanghai,Bronze,88,187.76,Home Goods,2023-02-11,Trade mark attorney,10,1
+88e62c93-f215-45e9-863f-62896bddf871,79,Female,Jakarta,Gold,57,847.62,Clothing,2024-01-02,"Education officer, museum",22,0
+fc6d900d-4348-4ee5-813f-eb412946d375,35,Male,Beijing,Gold,40,276.3,Clothing,2023-10-24,Commercial/residential surveyor,24,1
+21dc0aad-be74-4f6b-bba0-0fcdeed5e805,40,Male,Istanbul,Bronze,53,957.16,Clothing,2023-04-27,Fitness centre manager,13,0
+c585181d-a694-41ce-a210-bafa3c9b6bda,44,Female,Jakarta,Silver,12,568.06,Home Goods,2023-12-23,Best boy,18,0
+8e4f3e77-0338-4741-b74f-84bfb20db2df,90,Female,Tokyo,Silver,80,717.49,Clothing,2023-06-11,"Psychologist, occupational",29,0
+d2d7dfca-44a9-4b85-8fa1-4ac5f4eaf098,37,Female,Beijing,Bronze,39,61.19,Electronics,2023-05-20,Interior and spatial designer,16,0
+99a0baf7-9449-413b-b152-aca68ebd893a,42,Female,Tokyo,Platinum,30,660.07,Clothing,2023-09-03,"Designer, jewellery",4,1
+3a694b13-6a8a-4e17-a6d1-d71f436d9ee0,25,Female,Tokyo,Silver,25,236.7,Electronics,2023-07-12,"Civil engineer, contracting",9,0
+93c0c0e9-887e-43b1-80c7-463193bdbf3d,37,Male,Seoul,Gold,46,152.09,Clothing,2023-06-12,Hydrologist,23,1
+102586c6-527d-43cc-b3ec-627a7a731ff8,32,Female,Seoul,Bronze,81,796.92,Clothing,2023-01-12,Social worker,27,0
+ba590ee0-b693-4603-8a23-722e9917ab5e,87,Male,Seoul,Gold,83,743.18,Home Goods,2023-06-23,Translator,4,0
+b64a83a2-dd9c-4eca-abe8-70aadcd21bc4,38,Male,Beijing,Gold,24,142.99,Home Goods,2023-04-03,Network engineer,1,1
+0e97b3da-65f5-4ed2-8c35-ffed3fe08717,30,Male,Mumbai,Bronze,45,799.86,Electronics,2023-10-23,Jewellery designer,16,0
+39e75c6e-3277-4c4b-8bdc-85ea85852106,38,Male,Seoul,Platinum,88,342.15,Electronics,2023-11-18,"Surveyor, minerals",4,0
+3e411153-8557-4643-a41f-5f685a9ab514,19,Male,Seoul,Gold,88,305.58,Home Goods,2023-12-08,Chief Financial Officer,22,1
+05ef9037-689c-4067-b2a3-bd3d92ea7843,78,Male,Karachi,Platinum,41,927.28,Home Goods,2023-11-30,Psychiatric nurse,20,1
+5847b2e2-07e5-430f-b0af-2af814285127,39,Female,Jakarta,Silver,90,154.47,Electronics,2023-07-13,Freight forwarder,27,0
+7816855c-5246-439d-a03e-0259fcf362c6,27,Male,Jakarta,Gold,3,897.75,Clothing,2023-06-04,Tax adviser,20,1
+d5025a21-07b9-46f7-ac6a-d756cc2a3f07,71,Female,Beijing,Platinum,28,751.54,Home Goods,2023-06-02,Financial risk analyst,29,0
+009b69a4-014d-46c4-9cad-d1f496016c48,39,Male,Mumbai,Platinum,65,73.44,Home Goods,2023-01-24,Market researcher,15,1
+6b0f80ad-17b1-4feb-bc64-c19bbb49ba5d,56,Male,Mumbai,Gold,77,848.77,Clothing,2023-05-05,Amenity horticulturist,14,1
+75ae0f0b-39ee-48a1-ad68-dd6f6328ecf0,70,Male,Beijing,Bronze,57,292.26,Clothing,2023-01-19,Emergency planning/management officer,22,0
+dce26301-fec7-4eb9-958c-d6467ed847ba,49,Female,Beijing,Platinum,94,98.02,Clothing,2023-01-18,"Designer, interior/spatial",8,0
+4574daba-7c35-4dac-a405-a5caa0d503c9,45,Male,Tokyo,Gold,100,615.84,Home Goods,2023-02-01,Patent attorney,2,0
+af97db14-d927-41d4-ace2-ec1e4113defb,72,Female,Karachi,Bronze,52,478.79,Clothing,2023-08-19,Barrister's clerk,5,1
+6d9d36a8-2cd4-4693-872e-fbe453d636d9,20,Female,Mumbai,Bronze,26,981.2,Electronics,2023-02-13,Community development worker,14,0
+7608a721-712e-4e39-842f-e3731606861e,69,Female,Mumbai,Platinum,49,127.4,Clothing,2023-02-21,Illustrator,22,1
+c5815a65-1053-4bdc-afc1-3caba9fd909f,44,Male,Karachi,Gold,8,442.98,Home Goods,2023-07-07,"Surveyor, insurance",26,1
+1f8eb7ce-e288-4c7b-8912-b8f554a682ca,62,Male,Beijing,Gold,66,892.93,Home Goods,2023-04-02,Farm manager,18,0
+371838e4-c7eb-4858-8a8c-3ac75b73198e,83,Female,Mumbai,Gold,16,696.22,Home Goods,2023-04-03,"Development worker, international aid",18,0
+69707e51-4172-448f-83d9-2d929672064d,71,Female,Mumbai,Silver,73,206.74,Clothing,2023-02-05,Film/video editor,29,0
+21c7f79c-9a16-4a3b-b7bf-e1f8d31ec520,30,Male,Shanghai,Platinum,32,949.24,Electronics,2023-05-10,Mental health nurse,2,1
+ea11a1b6-85e5-483e-95db-19dcc2d7218e,48,Male,Seoul,Platinum,46,895.56,Home Goods,2023-12-19,Translator,11,0
+fd5e83c7-2dd8-4917-933c-b9793965855b,24,Male,Jakarta,Bronze,46,431.41,Clothing,2023-11-17,Chiropodist,25,0
+fb94e8a0-888d-4f80-94cf-e45dd2d2d47f,74,Female,Karachi,Bronze,64,682.53,Home Goods,2023-04-22,"Scientist, water quality",2,1
+b3abee7a-cc96-46bd-b377-799253825704,33,Male,Beijing,Silver,50,101.89,Electronics,2024-01-04,Insurance underwriter,5,0
+ee90f762-d07a-474d-97d3-873f837d4fc2,35,Female,Tokyo,Bronze,31,719.87,Clothing,2023-06-07,"Therapist, drama",28,0
+312aef17-fc96-40a4-8a86-57d1535275f9,46,Male,Seoul,Bronze,75,142.88,Home Goods,2023-12-24,"Designer, exhibition/display",1,0
+e1fc6d79-c1a1-4f5a-8ec1-f07f6653f646,23,Female,Seoul,Platinum,55,124.42,Home Goods,2023-08-17,Minerals surveyor,15,1
+899b4d3d-e368-41b1-acc4-80a538c20a9b,83,Male,Istanbul,Platinum,89,748.69,Electronics,2023-02-12,"Editor, film/video",2,1
+0e78877b-3d90-4789-b013-35b17b1430a6,58,Male,Shanghai,Silver,17,974.94,Electronics,2023-06-27,"Teacher, special educational needs",19,1
+9f34df2b-8188-4ea4-b4ac-e6652e9f7d50,63,Female,Istanbul,Gold,46,451.22,Clothing,2023-08-27,Sports development officer,12,0
+9f8cd44b-4acf-4e08-8c60-99a784bf167c,20,Male,Beijing,Gold,34,926.44,Clothing,2023-01-16,Amenity horticulturist,10,0
+2d3e94a1-aadd-4d7e-a7aa-44c3a0ec4c24,17,Female,Istanbul,Bronze,76,446.27,Electronics,2023-08-13,Medical laboratory scientific officer,10,1
+7af11c1b-00cc-47a7-a7ea-32c513e737d9,82,Male,Seoul,Silver,61,289.3,Clothing,2023-12-16,Contracting civil engineer,24,0
+6082537d-c470-414c-9d0a-bc4aa14b5334,22,Female,Beijing,Bronze,27,930.54,Clothing,2023-06-24,Freight forwarder,4,1
+9bec2e2d-5a19-40bc-a1a6-3857331b9cd5,64,Male,Bangkok,Silver,25,247.3,Home Goods,2023-06-18,Nutritional therapist,27,1
+e4dbe4c2-c3bb-403e-aabb-27bd4319d8d4,43,Male,Jakarta,Gold,50,616.14,Clothing,2023-10-15,Air cabin crew,11,0
+5698f5c1-118b-442a-a508-55bb4119d988,51,Female,Jakarta,Silver,76,81.87,Clothing,2023-03-08,Community arts worker,25,1
+eef50a04-dec2-4173-a0b9-2b02c336d394,18,Male,Seoul,Gold,40,599.6,Electronics,2023-12-30,Air broker,10,0
+b37118dd-74bc-4638-8bd9-e3aedc7868a4,40,Male,Bangkok,Bronze,87,956.66,Electronics,2023-04-23,Chemical engineer,13,0
+ae85e1a6-e6f1-4d59-8c02-9141ccbc47fb,50,Female,Jakarta,Gold,42,618.42,Electronics,2023-04-23,Passenger transport manager,5,1
+3718bfac-b279-4dec-85dd-550b04081ef4,19,Female,Jakarta,Silver,99,309.46,Electronics,2023-05-19,Clinical molecular geneticist,1,0
+9c6692c2-a517-486b-9aa3-36eb3c022dfe,31,Female,Seoul,Gold,81,207.48,Clothing,2023-04-02,"Doctor, hospital",24,0
+058d708d-0e0c-4df3-ab05-74317ad8eddd,41,Male,Mumbai,Gold,1,712.64,Clothing,2023-04-21,"Development worker, community",5,1
+256f75e1-a1df-4ab2-90c3-db1d55314ae4,65,Female,Jakarta,Gold,76,397.56,Clothing,2023-11-06,"Programmer, applications",27,0
+b59d36ca-682a-4385-9f6f-cf61f48f5acb,42,Female,Jakarta,Gold,51,325.11,Electronics,2023-01-23,Site engineer,11,1
+3c3085f6-4cf5-413d-9d1f-4a7a55f8f194,85,Male,Bangkok,Gold,67,681.39,Home Goods,2023-12-07,Psychiatrist,18,1
+ecbf5c58-cfec-43ef-b8fc-5cbdb2bc7b62,54,Male,Shanghai,Silver,79,259.11,Home Goods,2023-02-24,"Loss adjuster, chartered",12,1
+84980ef9-5e9c-44a4-bf8f-2d6c4869e081,40,Male,Karachi,Platinum,65,674.35,Home Goods,2023-12-17,Web designer,17,1
+c4847320-7468-4e8e-b902-5a5e03c435e3,30,Female,Bangkok,Bronze,36,652.69,Home Goods,2023-11-24,Hydrologist,14,0
+d105ba5b-3d7c-44c8-9648-44a3d8235c9d,30,Female,Shanghai,Silver,37,661.84,Home Goods,2023-04-02,Barista,1,0
+ed8494c4-0bfd-4dfa-95d0-53347f2b2848,28,Male,Shanghai,Silver,42,621.33,Electronics,2023-08-30,Commercial horticulturist,20,0
+ff4156bc-c137-491a-a088-d064b254384b,52,Female,Bangkok,Platinum,66,124.38,Home Goods,2023-07-10,Barista,25,1
+f67f37ff-a571-4b11-bb6b-5b1389d00a62,57,Male,Beijing,Platinum,69,106.29,Home Goods,2023-07-14,Waste management officer,20,0
+1cf49802-523a-422b-9c85-9587bda2ee34,47,Female,Jakarta,Bronze,16,841.83,Electronics,2023-02-01,Clinical cytogeneticist,12,0
+e306761e-6107-44f2-9dae-ad0dd1656282,28,Male,Bangkok,Bronze,92,613.35,Home Goods,2023-07-05,Chief of Staff,25,0
+96286ff2-198d-412f-9b27-5c2b62e7df79,88,Female,Beijing,Bronze,80,228.78,Home Goods,2023-02-20,Clinical research associate,25,1
+9d2fedab-ce7e-42d4-b18f-5c25655cb545,82,Male,Bangkok,Bronze,99,593.66,Clothing,2023-04-08,Lexicographer,7,0
+3d210b8d-b007-4fe1-b555-c0f017981c45,80,Female,Mumbai,Gold,67,513.59,Home Goods,2023-10-02,"Horticulturist, commercial",3,0
+a9632636-343d-40bd-9e7d-06a9f4957c87,75,Male,Bangkok,Silver,12,892.38,Electronics,2023-04-09,Risk manager,11,0
+9a0aaed3-2d41-47db-b2f2-6f5985e7bd0b,47,Female,Jakarta,Bronze,23,250.44,Electronics,2023-08-05,Emergency planning/management officer,17,0
+9c3a682f-9970-4858-b11a-b77db55fc57a,87,Male,Seoul,Silver,30,248.89,Electronics,2023-08-25,Health visitor,11,0
+16cf7f62-092a-46b2-840b-3e6843527a23,52,Female,Beijing,Platinum,67,317.52,Clothing,2023-11-25,"Pharmacist, community",24,0
+fbac6346-3000-430c-b9b3-ac76d01c30c1,64,Female,Seoul,Gold,66,760.47,Clothing,2023-09-25,Magazine features editor,20,1
+6a7764a5-70b2-40aa-883c-faa12f1c3241,26,Female,Mumbai,Gold,96,548.4,Clothing,2023-09-30,Education administrator,3,0
+d690f9ef-e733-4d58-b891-228691aa55d5,69,Male,Seoul,Gold,9,357.28,Home Goods,2023-03-08,Charity officer,22,0
+6b082436-ca47-4823-953e-a313b132cff6,23,Male,Shanghai,Gold,15,964.06,Clothing,2023-11-21,Geographical information systems officer,18,1
+cc94fdba-fab3-4af5-9d4d-87381d5c818c,77,Female,Mumbai,Silver,88,100.03,Electronics,2023-02-07,Event organiser,20,1
+f300b86d-6400-4af6-bf11-ab51334956de,83,Male,Bangkok,Silver,45,628.38,Electronics,2023-02-26,Public relations officer,21,0
+23d14449-5be7-4880-b68c-8f1d1a7a9a49,76,Male,Shanghai,Gold,54,241.73,Electronics,2023-06-01,Magazine journalist,5,0
+b0283f73-8991-498a-8dfb-5dc65d8c1a63,63,Female,Tokyo,Platinum,51,554.47,Home Goods,2023-07-18,Tree surgeon,9,0
+922f8390-bd8d-4ba0-96fc-2007b15ca232,81,Female,Mumbai,Silver,40,236.44,Clothing,2023-01-15,Sports administrator,28,1
+16577792-e0e8-4fa4-9bf2-5af5b6e76fad,63,Male,Istanbul,Gold,13,970.56,Electronics,2023-03-09,"Engineer, maintenance (IT)",18,1
+863a5c9d-9703-4506-9675-7fa04fdb2e62,83,Female,Bangkok,Gold,88,318.49,Home Goods,2023-05-27,Herbalist,6,0
+869c1b79-2e32-43be-aa50-d59361ba594c,63,Male,Bangkok,Platinum,4,800.29,Home Goods,2023-03-03,"Scientist, water quality",20,0
+4427bed5-74d4-4246-a120-f79e91957af8,87,Female,Tokyo,Platinum,51,92.36,Home Goods,2023-02-04,Field trials officer,5,0
+f995b3f9-e4a5-4d93-83fe-07fa81676d2c,69,Male,Bangkok,Bronze,69,803.63,Clothing,2023-10-04,Marketing executive,30,1
+81630be6-5f69-4f1b-9f55-8e11b2681fcd,63,Female,Bangkok,Platinum,26,197.9,Electronics,2024-01-06,Pathologist,28,1
+769a9672-9730-4464-886e-aa71c25c4904,18,Female,Bangkok,Silver,1,790.99,Clothing,2023-12-04,Leisure centre manager,29,0
+5c546b1f-591d-43cc-908f-9ffb3ea53e12,22,Female,Tokyo,Gold,23,62.85,Clothing,2023-06-03,Biomedical scientist,15,1
+c7c1375a-9fe9-47ce-8e72-d443adedf18e,51,Female,Beijing,Gold,14,575.72,Home Goods,2023-06-07,Occupational therapist,23,1
+0ef90c51-e7bd-4bc2-93c9-ad974bd0de1a,83,Female,Mumbai,Silver,61,215.62,Home Goods,2023-04-20,Office manager,22,0
+b2853859-11d6-4fa0-ab05-84f20e10a620,79,Male,Beijing,Bronze,32,145.92,Home Goods,2023-01-24,Television camera operator,10,0
+7c5f2818-0a2c-417e-82e3-3b049caaa3b9,17,Male,Beijing,Gold,38,747.54,Clothing,2023-04-07,"Scientist, biomedical",6,0
+287ac2c8-564d-47bf-8678-289a9d5cceb3,21,Male,Shanghai,Gold,43,183.78,Home Goods,2023-06-17,Chiropodist,1,0
+3c0fe5f5-30e6-4a2f-9186-bc04c19c1db2,70,Male,Tokyo,Platinum,58,343.56,Home Goods,2023-02-06,Clinical embryologist,1,1
+e01960b5-f76f-433f-9f99-0af9abffef00,36,Female,Mumbai,Gold,82,395.85,Electronics,2023-09-12,Legal secretary,10,0
+119d96e3-d729-44d7-8590-3f7fe5c52793,15,Male,Bangkok,Gold,26,478.47,Electronics,2023-12-19,Theatre manager,28,0
+6f8ed5fb-7350-43ef-93ff-32c561b21260,76,Male,Istanbul,Platinum,91,239.39,Electronics,2023-04-09,Public relations officer,29,1
+5803ac1e-501f-40e4-9fdf-214113c313fc,50,Female,Istanbul,Platinum,48,159.95,Home Goods,2023-04-22,Production manager,8,1
+92c25082-7c06-40d3-99b4-33906a135e02,32,Male,Beijing,Gold,80,176.31,Home Goods,2023-12-05,Solicitor,11,1
+aaa34b88-2927-4aad-a13f-a20530f62266,86,Male,Istanbul,Bronze,89,582.57,Clothing,2023-06-29,"Surveyor, minerals",21,0
+32893436-eccd-41b5-b28e-dc7fac58e095,90,Female,Bangkok,Gold,10,914.06,Home Goods,2023-12-31,Oceanographer,15,1
+cedd8635-1d09-4a1b-be0f-5327999be513,30,Male,Mumbai,Gold,44,596.25,Electronics,2023-07-08,"Accountant, chartered",1,0
+75d51b25-5b6f-49aa-a660-7c945b854df0,40,Male,Tokyo,Gold,54,589,Home Goods,2023-08-23,Ergonomist,15,1
+c660c6c2-01f6-4e6a-9844-f257f117a9fc,85,Female,Shanghai,Gold,45,420.33,Home Goods,2023-09-16,Management consultant,17,1
+61666a1c-b1f3-4586-af1b-1ef6d1f5472f,89,Female,Tokyo,Bronze,80,215.71,Home Goods,2023-03-06,"Psychologist, counselling",9,0
+35368d1f-5492-425b-8e42-a2629c937cdd,69,Male,Jakarta,Silver,63,87.34,Electronics,2023-09-29,"Surveyor, building control",22,1
